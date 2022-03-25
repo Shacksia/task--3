@@ -24,4 +24,5 @@ Debouncer.com,
 ping.eu,
 DNSQUERIES,
 iplocation.io,
-DNS LookupHacker Target.
+DNS Lookup,
+Hacksr Target.
